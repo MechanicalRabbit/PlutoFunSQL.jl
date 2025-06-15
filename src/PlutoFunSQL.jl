@@ -10,6 +10,7 @@ using UUIDs
 include("resolve.jl")
 include("summary.jl")
 include("validate.jl")
+include("format.jl")
 
 # keep last; export all funsql_
 include("duckdb.jl")
